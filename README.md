@@ -76,4 +76,5 @@ We selected three tree-based models known for handling tabular data effectively:
 All plots are auto-generated and saved to the `plots/` folder.
 
 ![image](https://github.com/user-attachments/assets/1923f73b-c84e-49fe-85c6-49e4aad1cb8a)
+![image](https://github.com/user-attachments/assets/af7be31a-9a7a-4118-83be-9e196869675c)
 
